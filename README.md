@@ -1,6 +1,6 @@
 # NASA
 #
-# This was a project for PRED455 (Data Visualization) in my Northwestern MS in Predictive Analytics class.
+ This was a project for PRED455 (Data Visualization) in my Northwestern MS in Predictive Analytics class.
 # Our project topic was NASA.
 #
 # Viz stuff was done mostly in Tableau (at least where things like bar charts & maps were done) & final editing done in InkScape 
